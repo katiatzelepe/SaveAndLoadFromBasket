@@ -1,0 +1,3 @@
+ID : 1	 Name : Frozen Meat	 Price : 7	 Product Category : 3 
+ID : 2	 Name : Coffee	 Price : 1,5	 Product Category : 2 
+ID : 3	 Name : Chocolate	 Price : 1,8	 Product Category : 1 

@@ -1,0 +1,16 @@
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\SaveAndLoadFormBasket.exe.config
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\SaveAndLoadFormBasket.exe
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\SaveAndLoadFormBasket.pdb
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\NPOI.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\NPOI.OOXML.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\obj\Debug\SaveAndLoadFormBasket.csprojAssemblyReference.cache
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\obj\Debug\SaveAndLoadFormBasket.csproj.CoreCompileInputs.cache
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\obj\Debug\SaveAndLoadFormBasket.csproj.CopyComplete
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\obj\Debug\SaveAndLoadFormBasket.exe
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\obj\Debug\SaveAndLoadFormBasket.pdb
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\Newtonsoft.Json.dll
+C:\Users\POL\source\repos\SaveAndLoadFormBasket\SaveAndLoadFormBasket\bin\Debug\Newtonsoft.Json.xml
